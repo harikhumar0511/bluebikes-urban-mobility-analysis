@@ -119,7 +119,9 @@ The dataset is anonymized and does not contain personally identifiable informati
 ## Repository Structure
 bluebikes-urban-mobility-analysis/
 ├── notebooks/ # Analysis and storytelling notebook
+
 ├── reports/ # Hackathon presentation
+
 └── README.md
 
 ## Why This Project Matters
